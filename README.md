@@ -1,1 +1,1 @@
-# UFO-Sightings
+# UFOs
